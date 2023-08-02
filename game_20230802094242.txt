@@ -1,0 +1,4 @@
+Game Details:
+White Pawn at b7 has been moved to b5
+Black Pawn at c2 has been moved to c4
+White Pawn at b5 has been captured Pawn at c4
